@@ -25,7 +25,7 @@
 #include <time.h>
 #include <io.h>
 #include <sys/stat.h>
-#include "..\exdll\exdll.h"
+#include "exdll.h"
 
 #define NOCOLOR 0xFFFFFFFF
 
